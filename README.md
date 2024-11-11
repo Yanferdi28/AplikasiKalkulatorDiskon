@@ -125,7 +125,7 @@ Menyediakan riwayat perhitungan diskon yang telah dilakukan untuk membantu pengg
 ```
 ## 6. Tampilan Aplikasi Saat di Run
 
-
+![image](https://github.com/user-attachments/assets/1d90f146-5197-4369-af91-e88e34e25c04)
 
 ## 7. Indikator Penilaian
 
